@@ -15,7 +15,8 @@ public class CalculadoraController {
 			nuevaCalculadora.setA(num1);
 			nuevaCalculadora.setB(num2);
 			
-			System.out.println("El resultado de la suma es: "+ nuevaCalculadora.sumar());
+			System.out.println("El resultado de la suma es: "+ nuevaCalculadora.sumar());			
+			
 			
 	}
 
